@@ -1,6 +1,8 @@
-install  this pakages
+## Commands
 
-npm install
-npm install express
-npm install mongoose
-npm install cors
+- `npm install`
+- `npm install express/n`
+- `npm install mongoose`
+- `npm install cors`
+
+- `npm start` - to run the code .
