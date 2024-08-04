@@ -1,7 +1,8 @@
 ## Commands
 
+- by hiting all this command just install all pakages.
 - `npm install`
-- `npm install express/n`
+- `npm install express`
 - `npm install mongoose`
 - `npm install cors`
 
